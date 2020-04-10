@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaugeSystem", "GaugeSystem\GaugeSystem.csproj", "{CDB4E5A7-6C83-40A8-82D1-B919DC3B1683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaugeSystemTest", "GaugeSystemTest\GaugeSystemTest.csproj", "{2A0E218E-CC45-45BB-9688-1CF5535411F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB4E5A7-6C83-40A8-82D1-B919DC3B1683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB4E5A7-6C83-40A8-82D1-B919DC3B1683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB4E5A7-6C83-40A8-82D1-B919DC3B1683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB4E5A7-6C83-40A8-82D1-B919DC3B1683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0E218E-CC45-45BB-9688-1CF5535411F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0E218E-CC45-45BB-9688-1CF5535411F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0E218E-CC45-45BB-9688-1CF5535411F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0E218E-CC45-45BB-9688-1CF5535411F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
